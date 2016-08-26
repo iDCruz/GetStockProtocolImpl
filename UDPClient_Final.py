@@ -1,6 +1,6 @@
 import socket
 
-IP = "192.168.1.137"
+IP = "ENTER YOUR IP HERE"
 PORT = 1050
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
