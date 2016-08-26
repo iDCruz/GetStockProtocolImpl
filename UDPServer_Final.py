@@ -9,7 +9,7 @@ import string
 FILESTRING = "Users.txt"                                                         #
                                                                                  #
 #IP is the IP string to be used when creating a socket for the server            #
-IP = "192.168.1.137"                                                             #
+IP = "ENTER YOUR IP HERE                                                         #
                                                                                  #
 #PORT is the port number to be used for the server                               #
 PORT = 1050                                                                      #
